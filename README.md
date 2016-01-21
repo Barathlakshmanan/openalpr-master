@@ -56,7 +56,7 @@ make
 sudo make install
 sudo ldconfig
 
-Export Path:
+Export Path (reason for segmentation fault):
 export TESSDATA_PREFIX=/usr/local/share/openalpr/runtime_data/ocr/
 
 
