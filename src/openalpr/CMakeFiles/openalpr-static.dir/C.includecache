@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ascc/openalpr-master/src/openalpr/cjson.c
+string.h
+-
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+float.h
+-
+limits.h
+-
+ctype.h
+-
+cjson.h
+/home/ascc/openalpr-master/src/openalpr/cjson.h
+
+/home/ascc/openalpr-master/src/openalpr/cjson.h
+
+/home/ascc/openalpr-master/src/openalpr/trex.c
+string.h
+-
+stdlib.h
+-
+ctype.h
+-
+setjmp.h
+-
+trex.h
+/home/ascc/openalpr-master/src/openalpr/trex.h
+stdio.h
+-
+
+/home/ascc/openalpr-master/src/openalpr/trex.h
+

@@ -1,0 +1,43 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/openalpr.dir/alpr.cpp.o"
+  "CMakeFiles/openalpr.dir/alpr_impl.cpp.o"
+  "CMakeFiles/openalpr.dir/config.cpp.o"
+  "CMakeFiles/openalpr.dir/detection/detector.cpp.o"
+  "CMakeFiles/openalpr.dir/detection/detectorcpu.cpp.o"
+  "CMakeFiles/openalpr.dir/detection/detectorfactory.cpp.o"
+  "CMakeFiles/openalpr.dir/licenseplatecandidate.cpp.o"
+  "CMakeFiles/openalpr.dir/utility.cpp.o"
+  "CMakeFiles/openalpr.dir/stateidentifier.cpp.o"
+  "CMakeFiles/openalpr.dir/featurematcher.cpp.o"
+  "CMakeFiles/openalpr.dir/ocr.cpp.o"
+  "CMakeFiles/openalpr.dir/postprocess.cpp.o"
+  "CMakeFiles/openalpr.dir/binarize_wolf.cpp.o"
+  "CMakeFiles/openalpr.dir/segmentation/charactersegmenter.cpp.o"
+  "CMakeFiles/openalpr.dir/segmentation/verticalhistogram.cpp.o"
+  "CMakeFiles/openalpr.dir/edges/edgefinder.cpp.o"
+  "CMakeFiles/openalpr.dir/edges/platecorners.cpp.o"
+  "CMakeFiles/openalpr.dir/edges/platelines.cpp.o"
+  "CMakeFiles/openalpr.dir/edges/textlinecollection.cpp.o"
+  "CMakeFiles/openalpr.dir/edges/scorekeeper.cpp.o"
+  "CMakeFiles/openalpr.dir/colorfilter.cpp.o"
+  "CMakeFiles/openalpr.dir/transformation.cpp.o"
+  "CMakeFiles/openalpr.dir/textdetection/characteranalysis.cpp.o"
+  "CMakeFiles/openalpr.dir/textdetection/platemask.cpp.o"
+  "CMakeFiles/openalpr.dir/textdetection/textcontours.cpp.o"
+  "CMakeFiles/openalpr.dir/textdetection/textline.cpp.o"
+  "CMakeFiles/openalpr.dir/textdetection/linefinder.cpp.o"
+  "CMakeFiles/openalpr.dir/pipeline_data.cpp.o"
+  "CMakeFiles/openalpr.dir/trex.c.o"
+  "CMakeFiles/openalpr.dir/cjson.c.o"
+  "libopenalpr.pdb"
+  "libopenalpr.so"
+  "libopenalpr.so.2"
+  "libopenalpr.pdb"
+  "CMakeFiles/CMakeRelink.dir/libopenalpr.so"
+  "CMakeFiles/CMakeRelink.dir/libopenalpr.so.2"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang C CXX)
+  INCLUDE(CMakeFiles/openalpr.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

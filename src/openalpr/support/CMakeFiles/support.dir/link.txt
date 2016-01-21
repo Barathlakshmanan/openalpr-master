@@ -1,0 +1,2 @@
+/usr/bin/ar cr libsupport.a  CMakeFiles/support.dir/filesystem.cpp.o CMakeFiles/support.dir/timing.cpp.o CMakeFiles/support.dir/tinythread.cpp.o CMakeFiles/support.dir/platform.cpp.o
+/usr/bin/ranlib libsupport.a

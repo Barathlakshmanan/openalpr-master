@@ -1,0 +1,14 @@
+/home/ascc/openalpr-master/src/CMakeFiles/alpr.dir
+/home/ascc/openalpr-master/src/CMakeFiles/alprd.dir
+/home/ascc/openalpr-master/src/openalpr/CMakeFiles/openalpr.dir
+/home/ascc/openalpr-master/src/openalpr/CMakeFiles/openalpr-static.dir
+/home/ascc/openalpr-master/src/misc_utilities/CMakeFiles/openalpr-utils-benchmark.dir
+/home/ascc/openalpr-master/src/misc_utilities/CMakeFiles/openalpr-utils-classifychars.dir
+/home/ascc/openalpr-master/src/misc_utilities/CMakeFiles/openalpr-utils-prepcharsfortraining.dir
+/home/ascc/openalpr-master/src/misc_utilities/CMakeFiles/openalpr-utils-sortstate.dir
+/home/ascc/openalpr-master/src/misc_utilities/CMakeFiles/openalpr-utils-tagplates.dir
+/home/ascc/openalpr-master/src/openalpr/simpleini/CMakeFiles/simpleini.dir
+/home/ascc/openalpr-master/src/openalpr/support/CMakeFiles/support.dir
+/home/ascc/openalpr-master/src/CMakeFiles/uninstall.dir
+/home/ascc/openalpr-master/src/tests/CMakeFiles/unittests.dir
+/home/ascc/openalpr-master/src/video/CMakeFiles/video.dir
